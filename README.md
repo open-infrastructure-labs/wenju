@@ -2,8 +2,7 @@
 
 _**Project Wenju is an initiative focused on the acceleration of production AI. It advocates a holistic and engineering approach to enterprise AI, facilitates the end-to-end integration of production AI systems, streamlines the lifecycle management of AI solutions, and significantly reduces skills requirements and time to value.**_
 
-Specifically, Wenju seeks to tackle the following challenges in production AI.
-
+Specifically, Wenju seeks to tackle the following challenges in production AI:
 _**The Challenge of Infrastructure**_: A company’s ultimate success with AI depends on how suitable its infrastructure is for its AI applications. Provisioning and managing AI infrastructure requires key insights for technology selection, topology design, configuration engineering, system
 interoperation, and resource optimization. It must be performed expediently and effectively in order to meet the business needs and maximize the return-on-investment of AI initiatives.
 
