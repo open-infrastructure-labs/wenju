@@ -1,6 +1,6 @@
-#Project Wenju
+# Project Wenju
 
-##Project Wenju is an initiative focused on the acceleration of production AI. It advocates a holistic and engineering approach to enterprise AI, facilitates the end-to-end integration of production AI systems, streamlines the lifecycle management of AI solutions, and significantly reduces skills requirements and time to value.
+## Project Wenju is an initiative focused on the acceleration of production AI. It advocates a holistic and engineering approach to enterprise AI, facilitates the end-to-end integration of production AI systems, streamlines the lifecycle management of AI solutions, and significantly reduces skills requirements and time to value.
 
 Specifically, Wenju seeks to tackle the following challenges in production AI.
 
